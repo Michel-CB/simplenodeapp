@@ -19,7 +19,7 @@ jobs:
 
     steps:
     - name: my first step
-    - env: 
+      env: 
         MY_VAR: hi there! my name is
         FIRST_NAME: Chad
         MIDDLE_NAME: Michael
